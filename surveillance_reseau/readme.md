@@ -7,18 +7,13 @@ Ce script en Python utilise la bibliothèque psutil pour surveiller le trafic r�
 Avant d'exécuter le script, assurez-vous d'installer la bibliothèque psutil si elle n'est pas déjà installée. Vous pouvez l'installer en utilisant pip :
 
 ```
-sh
-
 pip install psutil
-
 ```
 
 # Utilisation :
 
 ```
-sh
 python3 surveillance_reseau.py
-
 ```
 
 Entrez ensuite l'interface réseau que vous voulez surveillez et ensuite l'intervalle entre chaque analyse du réseau de l'interface entrée

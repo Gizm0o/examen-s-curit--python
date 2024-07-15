@@ -1,4 +1,4 @@
-# Analyse des Fichiers de Log Serveur
+# Description
 
 Ce script en Python analyse les fichiers de log d'un serveur web pour identifier diverses activités, telles que les tentatives de connexion échouées, les accès à des URLs suspectes, et le trafic anormalement élevé par IP.
 
